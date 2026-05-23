@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bourbon and Regret
+
+This log tracks the cryptographic history and versioning for the song **Bourbon and Regret** (bourbon-and-regret).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T06:20:08.207642 | `v1` | `aba148bba94b34262d69d1f2be03e18154d4172b482f7257b13f96a4646a9ed2` | `24dbb4cb598fad69c84b06805d4cdc50a3ce18cd2952317ed53928ec432eb904` | `2026-05-23_bourbon-and-regret-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
