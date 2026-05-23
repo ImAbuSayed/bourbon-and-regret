@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bourbon-and-regret/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Bourbon and Regret](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bourbon-and-regret/) |
+| **Get License** | [Get a Licensing Quote for Bourbon and Regret](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bourbon-and-regret/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> A glass of bourbon, a touch of regret
+> You are the memory I cannot forget
+> Pulling you closer, feeling the heat
+> Making my lonely heart skip a beat
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
