@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bourbon-and-regret/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Bourbon and Regret](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bourbon-and-regret/) |
+| **Get License** | [Music Rights & Licensing for Bourbon and Regret](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bourbon-and-regret/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1945)
 
 ---
 
